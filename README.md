@@ -1,11 +1,11 @@
 # Snake_with_AWS_MySQL
 
-![alt text](https://github.com/artemis94/Snake_with_AWS_MySQL/blob/master/Images/snake2.png?raw=true)
+![alt text](https://github.com/artemis94/Snake_with_AWS_MySQL/blob/master/Images/snake.png?raw=true)
 
 The project's goal is to showcase my programming skills and knowledge of technologies. The game is a lot of fun. 
 
 ### Translated version  
-A translated version of the program can be downloaded from [here](https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1dmvo1OqT62EedFhI4Ud3czsW4XZpxpOR%3Fusp%3Dsharing&h=AT083Co_tOg4BBQp5gVmQwT_uDaG9rQFqItWmdvlr6FpDWzi7B4zqHBLmsAfzp_H63-znAvxG9EjfK9c9rX3R9c6MMtO2Z_VEEC43ZISp0vI91v2Tv4-qFmlTWU5tW7ZbXNHSbsE41YXf4Ba9qSU1A)
+A translated version of the programme can be downloaded from [here](https://drive.google.com/drive/folders/1dmvo1OqT62EedFhI4Ud3czsW4XZpxpOR?usp=sharing)
 
 ## Features
 - Amazon Web Services RDS MySQL Cloud Database
@@ -23,10 +23,10 @@ A translated version of the program can be downloaded from [here](https://l.mess
 # Usage
 
 ### Registration
-Before using the program you have to register. You must choose a user name and an e-mail address that arent already present in the database.
+Before using the programme you have to register. You must choose a user name and an e-mail address that arent already present in the database.
 
 ### Login 
-Using your username and password with whitch you registered you can log in to the program. After a successful login you are taken to the programs menu.
+Using your username and password with whitch you registered you can log in to the programme. After a successful login you are taken to the programme's menu.
 
 ### Forgotten Password
 The user has to give their registered e-mail address to which they will recieve the code with whitch they can set a new password for their account.
@@ -68,7 +68,7 @@ Here the player can change the game mode, change their password or change their 
 This menu option only appears for users with admin or moderator rank. There is only one admin account. The admin can promote users to the rank of moderator or downmote them. In this window the users personal data can be edited, their ranks and their active or inactive status.
 
 # Known Issues
-During playing the game, if any key is held down the game stops until that key is released. That is due to the way Windows handles keypresses and cannot be resolved from whithin the program.
+During playing the game, if any key is held down the game stops until that key is released. That is due to the way Windows handles keypresses and cannot be resolved from whithin the programme.
 
 # Future plans
 - Separating the different game modes into different classes.
