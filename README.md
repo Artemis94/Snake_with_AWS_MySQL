@@ -1,6 +1,6 @@
 # Snake_with_AWS_MySQL
 
-![alt text](https://github.com/artemis94/Snake_with_AWS_MySQL/blob/master/Images/snake.png?raw=true)
+![alt text](https://github.com/artemis94/Snake_with_AWS_MySQL/blob/master/Images/snake2.png?raw=true)
 
 The project's goal is to showcase my programming skills and knowledge of technologies. The game is a lot of fun. 
 
