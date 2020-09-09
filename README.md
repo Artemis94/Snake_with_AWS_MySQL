@@ -40,7 +40,7 @@ There are 4 menu points to cshoose from:
 - Settings
 
 ### The Game
-The Game starts when any key is pressed on the keyboard. The game can be ended at any point by pressing te "esc" key. The main goal of the game is to feed Henry, grow him and gain points by doing so. 
+The Game starts when any key is pressed on the keyboard. The game can be ended at any point by pressing te "esc" key. The main goal of the game is to feed the snake, who I named Henry, grow him and gain points by doing so. 
 
 Currently there are 4 game modes to choose from:
 - Mushrooms! <img src="https://github.com/artemis94/Snake_with_AWS_MySQL/blob/master/Images/mushroom.png" alt="alt text" height="25"> (Gombák!): Each time Henry eats, his speed increases and poisonous mushrooms appear on the field, which have to be avoided othervise the player loses points. 
